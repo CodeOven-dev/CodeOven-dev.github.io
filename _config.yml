@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: CodeOven@hotmail.com
 description: "突然想起来，我也喜欢计算机"
 keyword: "CodeOven"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://codeoven-dev.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
